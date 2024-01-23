@@ -1,26 +1,3 @@
-"""
-<Project Title>
-
-
-Copyright (c) 2023 -- This is the 2024 Winter version of the Template
-Licensed
-Written by Hritvik Mahajan
-
-# you can also rely on the docstring documentation from pandas on how to format dosctrings:
-# https://pandas.pydata.org/pandas-docs/stable/development/contributing_docstring.html
-
-"""
-
-def add_nums(a, b):
-    """
-    Add two numbers together
-    :param a: first number
-    :param b: second number
-    :return: the sum of two inputs
-    """
-    
-    return a + b
-
 import csv
 import pandas as pd
 import json
